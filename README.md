@@ -8,6 +8,8 @@ As a school project, I created a video game where the player navigates a maze of
 
 To implement this project, I utilized object-oriented programming concepts within Java's Processing library.
 
+![Dungeon Crawl](/images/dungeon_crawl.png)
+
 ## Instructions
 1. Download Processing by visiting the following website: https://processing.org/download
 2. Fork this repository
