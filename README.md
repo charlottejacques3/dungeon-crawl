@@ -11,5 +11,6 @@ To implement this project, I utilized object-oriented programming concepts withi
 ## Instructions
 1. Download Processing by visiting the following website: https://processing.org/download
 2. Fork this repository
-3. Clone the forked repository
-4. Download 
+3. Create a new Processing project
+4. Clone the forked repository into the new project folder
+5. Run the project within the Processing IDE 
